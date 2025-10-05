@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌱 goGreen 
 
 With **goGreen**, you can make your profile look like you've been hard at work... even if you haven't. 
@@ -47,3 +48,6 @@ So, you've got the basics down. What's next?
 ## Credits
 
 Huge thanks to [Akshay Saini](https://github.com/akshaymarch7) for the original video behind this project.
+=======
+# ProjectSec
+>>>>>>> a9148bba1032a0b4ab749e697ffd5e8cbd99b2e0
